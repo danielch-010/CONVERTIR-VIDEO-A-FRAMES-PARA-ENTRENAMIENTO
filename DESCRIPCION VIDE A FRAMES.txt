@@ -2,4 +2,5 @@
 Este script permite seleccionar un video desde el explorador de archivos y extraer de él imágenes (frames) cada cierto número de cuadros. El usuario también puede elegir la carpeta donde se guardarán los frames, que se almacenan en una subcarpeta con el nombre del video. Al finalizar, el programa abre automáticamente la carpeta con las imágenes extraídas.
 
 🗒 Description in English:
+
 This script allows you to select a video from the file explorer and extract images (frames) from it at specific intervals. The user can also choose the destination folder where the frames will be saved, organized into a subfolder named after the video. Once the extraction is complete, the program automatically opens the folder containing the extracted images.
